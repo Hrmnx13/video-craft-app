@@ -1,7 +1,43 @@
-# Ignore virtual environments
-
+# virtual envs & caches
+.venv/
 venv/
 spacyenv/
 __pycache__/
 *.pyc
+
+# large/binary files (repo me nahi chahiye)
+*.mp4
+*.avi
+*.mkv
+*.wav
+*.mp3
+*.zip
+*.tar
+*.pt
+*.bin
+*.h5
+node_modules/
+.DS_Store
+Thumbs.db
+# virtual envs & caches
+.venv/
+venv/
+spacyenv/
+__pycache__/
+*.pyc
+
+# large/binary files (repo me nahi chahiye)
+*.mp4
+*.avi
+*.mkv
+*.wav
+*.mp3
+*.zip
+*.tar
+*.pt
+*.bin
+*.h5
+node_modules/
+.DS_Store
+Thumbs.db
 
